@@ -1,4 +1,7 @@
 # AI-powered workflow automation
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/53ea8289-24f5-49e6-aee7-79f59dd65019" />
+
+
 
 A static landing page for an AI workflow automation product built with HTML, CSS, and JavaScript.
 
